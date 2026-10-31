@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+# Local database: rebuilt by `python -m app.data.seed_database` (or automatically at API start)
+sisyphus.db
+sisyphus.db-journal

@@ -1,0 +1,67 @@
+{
+  "model": "IsolationForest",
+  "backend": "pure-python-fallback",
+  "feature_columns": [
+    "avg_hours_7d",
+    "hours_vs_expected_7d",
+    "avg_breaks_7d",
+    "avg_overtime_7d",
+    "night_sessions_7d",
+    "weekend_days_14d",
+    "productivity_change",
+    "work_variability_7d",
+    "meeting_hours_7d",
+    "consecutive_overtime_days"
+  ],
+  "params": {
+    "n_estimators": 300,
+    "contamination": 0.05,
+    "max_samples": "auto",
+    "random_state": 42
+  },
+  "training_baseline": {
+    "start": "2026-09-01",
+    "end": "2026-09-30",
+    "snapshots": 1599
+  },
+  "evaluation": {
+    "design": "Held-out employees (30%, never seen in training), snapshots from the latest 7 days, compared with synthetic scenario labels.",
+    "train_employees": 70,
+    "test_employees": 30,
+    "train_snapshots": 1113,
+    "test_snapshots": 206,
+    "positives": 32,
+    "confusion_matrix": {
+      "tp": 32,
+      "fp": 13,
+      "fn": 0,
+      "tn": 161
+    },
+    "precision": 0.711,
+    "recall": 1.0,
+    "f1": 0.831,
+    "roc_auc": 0.982,
+    "flag_rate_by_group": {
+      "healthy": 0.0,
+      "occasional_overtime": 0.317,
+      "sustained_overwork": 1.0
+    }
+  },
+  "latest_snapshot": {
+    "date": "2026-10-30",
+    "employees_scored": 96,
+    "flagged": 18,
+    "flagged_by_group": {
+      "sustained_overwork": 15,
+      "occasional_overtime": 3
+    }
+  },
+  "limitations": [
+    "Trained and evaluated on synthetic data whose patterns were designed by the authors; scores reflect how separable those simulated groups are, not real-world accuracy.",
+    "Snapshots from the same employee on consecutive days are highly correlated, so the effective sample size is much smaller than the row count.",
+    "An unusual pattern is not evidence of overwork, burnout or any health condition. Context such as deadlines, leave and role changes is not modelled.",
+    "The contamination parameter fixes roughly what share of the baseline is treated as unusual; it is a design choice, not an estimate of prevalence.",
+    "Median imputation lets the model score partial snapshots; the separate rule engine treats missing data as unknown instead."
+  ],
+  "disclaimer": "Simulation exercise on synthetic data. No clinical or real-world predictive accuracy is claimed."
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Interim fallback only. Replace by adding the official logo as public/brand/sisyphus-logo.png -->
+  <circle cx="50" cy="50" r="50" fill="#C08552"/>
+  <path d="M43 77C29 67 17 57 17 41.5 17 32.4 24 25.5 32.6 25.5c4.9 0 8.6 2.6 10.4 6.2 1.8-3.6 5.5-6.2 10.4-6.2C62 25.5 69 32.4 69 41.5 69 57 57 67 43 77Z" fill="#F3E9DC"/>
+  <path d="M26 45h9.5l3.8-8 5.4 16.5 4-11 2.6 2.5H60" stroke="#C08552" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 56v-3.5a3.5 3.5 0 0 1 3.5-3.5h6a3.5 3.5 0 0 1 3.5 3.5V56" stroke="#C08552" stroke-width="7" stroke-linecap="round"/>
+  <path d="M60 56v-3.5a3.5 3.5 0 0 1 3.5-3.5h6a3.5 3.5 0 0 1 3.5 3.5V56" stroke="#F3E9DC" stroke-width="3.2" stroke-linecap="round"/>
+  <rect x="50" y="55.5" width="33" height="23" rx="4.5" fill="#F3E9DC" stroke="#C08552" stroke-width="3"/>
+  <path d="M51.5 65h30" stroke="#C08552" stroke-width="2.2"/>
+  <rect x="63.2" y="61.8" width="6.6" height="6.6" rx="1.6" fill="#F3E9DC" stroke="#C08552" stroke-width="2.2"/>
+</svg>
