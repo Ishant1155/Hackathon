@@ -1,0 +1,76 @@
+Employee ID,Employee Name,Gender,Age,Department,Designation,Joining Date,Salary,Manager,Attendance Date,Check In,Check Out,Work Hours,Attendance Status,Leave Type,Leave Status,Tasks Completed,Productivity Score,Performance Rating,Bonus
+EMP1001,Aditya Sharma,Male,35,Operations,Operations Executive,25-09-2022,101482,Rajesh Sharma,01-07-2026,08:53,16:52,7.99,Present,None,N/A,5,66,4.2,6397.51
+EMP1002,Gaurav Verma,Male,49,Marketing,Marketing Executive,27-01-2018,107236,Vikas Gupta,01-07-2026,09:07,17:54,8.8,Present,None,N/A,11,86,3.1,9836.61
+EMP1003,Kirti Gupta,Male,46,IT,Data Analyst,27-06-2018,75082,Anita Rao,01-07-2026,09:09,17:19,8.17,Present,None,N/A,4,84,2.7,10553.44
+EMP1004,Tanya Mehta,Male,36,Marketing,Digital Marketer,22-07-2020,39116,Anita Rao,01-07-2026,09:04,13:27,4.39,Half Day,None,N/A,8,96,3,2224.67
+EMP1005,Shruti Patel,Male,56,Sales,Sales Manager,31-08-2025,64993,Pallavi Nair,01-07-2026,09:11,17:24,8.23,Present,None,N/A,8,82,3,10091.66
+EMP1006,Karan Chopra,Male,42,Finance,Financial Analyst,18-08-2018,72504,Meena Iyer,01-07-2026,08:53,18:21,9.48,Present,None,N/A,13,95,3,12791.72
+EMP1007,Divya Joshi,Female,30,IT,Data Analyst,18-03-2025,95435,Rajesh Sharma,01-07-2026,09:15,17:53,8.63,Present,None,N/A,14,80,3,10435.32
+EMP1008,Gaurav Sharma,Male,31,Operations,Operations Manager,08-01-2019,48131,Pallavi Nair,01-07-2026,10:14,19:31,9.3,Late,None,N/A,9,83,3,6085.15
+EMP1009,Rakesh Jain,Male,56,Finance,Accountant,17-02-2018,102512,Vikas Gupta,01-07-2026,08:57,17:12,8.26,Present,None,N/A,10,93,3.1,18361.64
+EMP1010,Komal Mehta,Male,31,Customer Support,Team Lead,12-03-2019,53416,Vikas Gupta,01-07-2026,08:58,16:46,7.82,Present,None,N/A,3,76,4.9,6738.55
+EMP1011,Ritika Kulkarni,Male,37,Customer Support,Support Executive,26-01-2022,32552,Sanjay Patil,01-07-2026,09:09,18:29,9.34,Present,None,N/A,3,98,3.3,2173.83
+EMP1012,Meera Desai,Female,35,HR,HR Executive,08-11-2019,92296,Sanjay Patil,01-07-2026,09:28,18:55,9.46,Late,None,N/A,11,68,2.8,17723.35
+EMP1013,Karan Patel,Female,23,Customer Support,Support Executive,12-10-2020,97839,Sanjay Patil,01-07-2026,10:11,19:40,9.49,Late,None,N/A,13,83,3.6,11517.89
+EMP1014,Varun Kulkarni,Female,53,Marketing,Marketing Executive,18-10-2018,34117,Rajesh Sharma,01-07-2026,08:45,16:23,7.64,Present,None,N/A,13,63,3.1,6105.08
+EMP1015,Akash Singh,Female,25,Marketing,Marketing Executive,22-12-2021,42704,Pallavi Nair,01-07-2026,10:20,18:19,7.99,Late,None,N/A,10,86,3,6356.38
+EMP1016,Pooja Mehta,Female,37,Operations,Operations Executive,25-09-2022,100292,Anita Rao,01-07-2026,09:08,17:18,8.18,Present,None,N/A,4,75,3,11763.45
+EMP1017,Vihaan Joshi,Female,22,Sales,Sales Executive,01-07-2022,93653,Meena Iyer,01-07-2026,09:02,18:12,9.17,Present,None,N/A,4,75,2.9,11444.75
+EMP1018,Ishita Sharma,Male,42,IT,Software Engineer,30-04-2021,93788,Anita Rao,01-07-2026,09:07,18:31,9.41,Present,None,N/A,15,95,4.2,6867.11
+EMP1019,Rakesh Chopra,Male,47,HR,HR Manager,06-10-2018,54356,Anita Rao,01-07-2026,09:12,17:45,8.56,Present,None,N/A,3,92,2.7,3276.48
+EMP1020,Pratik Jain,Female,37,Marketing,Marketing Executive,16-04-2020,71467,Vikas Gupta,01-07-2026,08:46,17:30,8.74,Present,None,N/A,9,97,3.9,13593.45
+EMP1021,Mohit Patel,Male,56,Sales,Sales Executive,19-12-2024,39508,Rajesh Sharma,01-07-2026,,,0,Absent,Casual Leave,Approved,0,0,3.6,2030.61
+EMP1022,Ritika Iyer,Male,57,Marketing,Digital Marketer,21-11-2025,87433,Vikas Gupta,01-07-2026,08:56,18:11,9.26,Present,None,N/A,6,83,3.2,15306.17
+EMP1023,Manish Kulkarni,Female,54,Operations,Operations Executive,18-01-2026,66930,Meena Iyer,01-07-2026,08:49,16:50,8.03,WFH,None,N/A,4,95,2.9,9418.69
+EMP1024,Sneha Jain,Female,57,IT,Data Analyst,08-12-2020,47146,Pallavi Nair,01-07-2026,08:58,18:07,9.16,Present,None,N/A,3,60,3.3,6862.9
+EMP1025,Akash Joshi,Male,41,Sales,Sales Executive,30-08-2019,78393,Vikas Gupta,01-07-2026,09:15,18:30,9.27,Present,None,N/A,5,94,2.6,10769.35
+EMP1026,Payal Jain,Male,37,Customer Support,Support Executive,23-07-2022,103385,Rajesh Sharma,01-07-2026,08:51,17:42,8.86,WFH,None,N/A,13,66,3.4,18880.19
+EMP1027,Rohan Singh,Male,52,Customer Support,Support Executive,12-11-2025,62527,Rajesh Sharma,01-07-2026,08:45,16:36,7.86,WFH,None,N/A,8,86,4.5,5628.73
+EMP1028,Arjun Verma,Female,44,Finance,Accountant,15-02-2021,55313,Pallavi Nair,01-07-2026,09:11,18:16,9.09,Present,None,N/A,6,74,2.6,6071.7
+EMP1029,Pooja Iyer,Female,24,Marketing,Digital Marketer,05-12-2020,33617,Anita Rao,01-07-2026,,,0,Absent,Earned Leave,Approved,0,0,3.3,2262.47
+EMP1030,Shweta Singh,Male,55,Marketing,Digital Marketer,01-07-2018,105574,Sanjay Patil,01-07-2026,09:10,17:17,8.13,Present,None,N/A,12,92,2.8,8288.81
+EMP1031,Varun Mehta,Female,42,Operations,Operations Executive,15-05-2021,46334,Meena Iyer,01-07-2026,08:47,18:10,9.4,Present,None,N/A,8,99,3.3,7319.06
+EMP1032,Ritika Mehta,Male,49,Operations,Operations Manager,02-01-2018,69446,Sanjay Patil,01-07-2026,08:51,17:11,8.34,Present,None,N/A,9,71,4,7702.34
+EMP1033,Varun Nair,Female,27,Marketing,Digital Marketer,08-03-2021,52241,Rajesh Sharma,01-07-2026,08:59,17:50,8.85,Present,None,N/A,11,90,4.5,7774.9
+EMP1034,Divya Singh,Male,46,Operations,Operations Manager,26-10-2018,110120,Meena Iyer,01-07-2026,08:51,16:38,7.79,Present,None,N/A,3,75,5,19541.97
+EMP1035,Sonia Gupta,Male,57,Sales,Sales Executive,21-10-2025,58683,Rajesh Sharma,01-07-2026,09:07,16:37,7.51,Present,None,N/A,15,66,4.4,4482.38
+EMP1036,Varun Singh,Female,32,Customer Support,Support Executive,25-01-2026,88008,Pallavi Nair,01-07-2026,09:10,17:35,8.43,Present,None,N/A,11,95,4,12488.15
+EMP1037,Kavya Gupta,Male,40,Customer Support,Team Lead,06-09-2020,98327,Rajesh Sharma,01-07-2026,09:09,17:08,7.99,Present,None,N/A,13,77,4.4,12063.7
+EMP1038,Om Singh,Female,56,IT,Software Engineer,21-09-2018,50028,Meena Iyer,01-07-2026,09:02,16:41,7.66,Present,None,N/A,5,74,3.5,7802.51
+EMP1039,Tanvi Gupta,Male,44,Sales,Sales Executive,16-06-2024,32560,Vikas Gupta,01-07-2026,08:58,17:14,8.28,Present,None,N/A,15,97,4.9,5812.28
+EMP1040,Akash Gupta,Male,46,Customer Support,Team Lead,22-01-2021,58906,Vikas Gupta,01-07-2026,09:15,13:35,4.34,Half Day,None,N/A,11,94,4.5,7259.25
+EMP1041,Vivaan Patel,Female,30,Operations,Operations Manager,08-06-2025,81645,Meena Iyer,01-07-2026,10:19,19:39,9.34,Late,None,N/A,12,94,2.6,11331.01
+EMP1042,Meera Chopra,Male,52,Finance,Financial Analyst,23-09-2022,79692,Anita Rao,01-07-2026,08:55,16:50,7.92,Present,None,N/A,8,81,4.4,7310.82
+EMP1043,Payal Joshi,Male,30,Operations,Operations Executive,25-03-2018,62411,Meena Iyer,01-07-2026,08:56,16:52,7.95,WFH,None,N/A,4,62,4.4,4986.89
+EMP1044,Rahul Verma,Male,41,Operations,Operations Executive,21-01-2026,109593,Anita Rao,01-07-2026,08:51,17:16,8.43,Present,None,N/A,7,83,2.9,21322.44
+EMP1045,Komal Kulkarni,Male,41,Marketing,Marketing Executive,29-09-2025,55995,Pallavi Nair,01-07-2026,09:03,17:54,8.85,WFH,None,N/A,9,85,4.9,3438.06
+EMP1046,Harsh Patel,Female,45,Marketing,Marketing Executive,17-09-2022,114874,Pallavi Nair,01-07-2026,09:25,17:36,8.19,Late,None,N/A,9,83,2.7,11623.49
+EMP1047,Akash Chopra,Female,42,Customer Support,Team Lead,20-03-2023,100539,Rajesh Sharma,01-07-2026,10:15,18:06,7.85,Late,None,N/A,11,77,4,16709.2
+EMP1048,Sahil Joshi,Female,35,Customer Support,Support Executive,18-07-2023,79674,Vikas Gupta,01-07-2026,08:59,16:58,7.99,Present,None,N/A,10,96,4,8004.01
+EMP1049,Om Gupta,Male,52,Customer Support,Team Lead,28-01-2026,55042,Pallavi Nair,01-07-2026,09:13,17:54,8.69,Present,None,N/A,7,95,2.5,3458.95
+EMP1050,Ankit Desai,Female,49,Operations,Operations Manager,20-02-2022,70135,Pallavi Nair,01-07-2026,08:45,16:26,7.69,Present,None,N/A,6,85,4.2,10491.78
+EMP1051,Gaurav Jain,Male,34,Marketing,Digital Marketer,04-01-2024,55242,Rajesh Sharma,01-07-2026,08:59,17:01,8.04,Present,None,N/A,7,74,2.8,5376.82
+EMP1052,Karan Rao,Male,41,Operations,Operations Manager,28-04-2021,43176,Anita Rao,01-07-2026,09:03,18:30,9.45,Present,None,N/A,11,98,3.2,7551.23
+EMP1053,Mohit Mehta,Female,52,Operations,Operations Executive,20-02-2018,94340,Meena Iyer,01-07-2026,08:46,17:22,8.61,Present,None,N/A,14,68,4.1,6168.72
+EMP1054,Komal Nair,Male,31,IT,Data Analyst,21-06-2024,82521,Rajesh Sharma,01-07-2026,08:53,18:15,9.38,WFH,None,N/A,10,67,4.6,10212.96
+EMP1055,Tanvi Gupta,Female,41,Customer Support,Team Lead,11-11-2023,111057,Sanjay Patil,01-07-2026,08:52,16:36,7.74,Present,None,N/A,15,86,4,9312.47
+EMP1056,Pratik Patel,Male,37,Sales,Sales Manager,19-12-2020,57235,Rajesh Sharma,01-07-2026,08:46,17:29,8.72,Present,None,N/A,14,66,4.9,8231.95
+EMP1057,Abhishek Chopra,Female,26,Marketing,Marketing Executive,04-03-2021,60340,Pallavi Nair,01-07-2026,08:58,17:22,8.4,Present,None,N/A,12,90,3.2,5624.64
+EMP1058,Vihaan Joshi,Female,58,Finance,Accountant,20-10-2018,64816,Vikas Gupta,01-07-2026,09:45,18:06,8.35,Late,None,N/A,11,74,4.1,11277.64
+EMP1059,Akash Jain,Female,38,Sales,Sales Executive,13-06-2018,87377,Anita Rao,01-07-2026,08:54,17:47,8.9,Present,None,N/A,7,92,3.8,5423.17
+EMP1060,Aditya Verma,Male,52,HR,HR Executive,18-06-2024,118117,Sanjay Patil,01-07-2026,09:11,18:24,9.22,WFH,None,N/A,12,61,5,20459.42
+EMP1061,Manish Rao,Male,32,Operations,Operations Manager,31-07-2022,41959,Vikas Gupta,01-07-2026,08:50,18:19,9.49,WFH,None,N/A,9,100,4.5,5056.12
+EMP1062,Rahul Verma,Female,54,Sales,Sales Manager,17-08-2021,41542,Anita Rao,01-07-2026,09:15,17:33,8.3,Present,None,N/A,15,95,2.6,4036.95
+EMP1063,Neha Patil,Female,50,Operations,Operations Manager,28-02-2024,36764,Pallavi Nair,01-07-2026,08:51,17:23,8.54,Present,None,N/A,12,91,4.1,2960.74
+EMP1064,Karan Chopra,Male,51,Sales,Sales Executive,17-01-2019,31792,Anita Rao,01-07-2026,09:05,17:48,8.72,Present,None,N/A,6,70,3.3,4223.18
+EMP1065,Divya Desai,Male,46,Operations,Operations Executive,25-09-2020,93242,Rajesh Sharma,01-07-2026,09:07,17:12,8.08,Present,None,N/A,14,77,3.5,18372.1
+EMP1066,Aisha Jain,Female,53,Marketing,Marketing Executive,11-01-2018,96550,Rajesh Sharma,01-07-2026,08:53,13:09,4.27,Half Day,None,N/A,9,81,4.8,8696.83
+EMP1067,Mohit Singh,Male,48,Sales,Sales Manager,05-09-2020,54727,Anita Rao,01-07-2026,09:02,18:03,9.03,Present,None,N/A,9,89,4.8,10787.58
+EMP1068,Manish Chopra,Male,50,IT,BI Developer,14-08-2024,34852,Anita Rao,01-07-2026,09:14,18:21,9.12,Present,None,N/A,9,69,3.7,2402.59
+EMP1069,Yash Nair,Male,43,Marketing,Digital Marketer,08-10-2025,64737,Pallavi Nair,01-07-2026,08:49,17:08,8.32,Present,None,N/A,13,69,2.7,6524.47
+EMP1070,Komal Nair,Female,36,Customer Support,Team Lead,19-08-2020,34705,Pallavi Nair,01-07-2026,09:05,18:01,8.94,WFH,None,N/A,15,91,4.7,4949.59
+EMP1071,Sahil Verma,Male,40,HR,HR Manager,08-07-2018,69251,Vikas Gupta,01-07-2026,09:09,17:55,8.77,WFH,None,N/A,4,88,2.9,12847
+EMP1072,Payal Nair,Male,53,IT,Software Engineer,16-04-2022,40350,Sanjay Patil,01-07-2026,09:01,17:20,8.32,Present,None,N/A,13,71,2.9,5706.45
+EMP1073,Naina Joshi,Male,50,Finance,Financial Analyst,07-08-2025,90981,Vikas Gupta,01-07-2026,08:53,17:18,8.42,Present,None,N/A,13,60,4.7,16847.99
+EMP1074,Tanvi Chopra,Female,28,Marketing,Digital Marketer,26-03-2020,89878,Rajesh Sharma,01-07-2026,,,0,Absent,Casual Leave,Approved,0,0,4.2,15890.03
+EMP1075,Ajay Jain,Female,40,Sales,Sales Manager,20-07-2018,104177,Rajesh Sharma,01-07-2026,09:07,17:12,8.09,Present,None,N/A,13,85,3.2,18726.87
