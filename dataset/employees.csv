@@ -1,0 +1,101 @@
+employee_id,department,designation,work_arrangement,shift_type,expected_hours,behaviour_group
+EMP0001,Sales,Software Developer,Office,day,8,healthy
+EMP0002,Sales,Project Manager,Office,day,8,healthy
+EMP0003,Marketing,Data Analyst,Hybrid,day,8,healthy
+EMP0004,Engineering,Marketing Executive,Hybrid,day,8,healthy
+EMP0005,Operations,Software Developer,Hybrid,day,8,healthy
+EMP0006,Finance,Software Developer,Office,day,8,healthy
+EMP0007,Engineering,Data Analyst,Office,day,8,healthy
+EMP0008,Operations,HR Executive,Office,day,8,healthy
+EMP0009,Operations,Data Analyst,Hybrid,day,8,healthy
+EMP0010,Sales,Marketing Executive,Hybrid,day,8,healthy
+EMP0011,Finance,Data Analyst,Remote,day,8,healthy
+EMP0012,Operations,Project Manager,Office,day,8,healthy
+EMP0013,Marketing,Marketing Executive,Remote,day,8,healthy
+EMP0014,Human Resources,Project Manager,Office,day,8,healthy
+EMP0015,Marketing,Project Manager,Office,day,8,healthy
+EMP0016,Engineering,Business Analyst,Office,day,8,healthy
+EMP0017,Human Resources,Project Manager,Hybrid,day,8,healthy
+EMP0018,Human Resources,Software Developer,Hybrid,day,8,healthy
+EMP0019,Finance,HR Executive,Office,day,8,healthy
+EMP0020,Finance,Software Developer,Hybrid,day,8,healthy
+EMP0021,Human Resources,Marketing Executive,Hybrid,day,8,healthy
+EMP0022,Human Resources,HR Executive,Office,day,8,healthy
+EMP0023,Sales,Software Developer,Office,day,8,healthy
+EMP0024,Sales,Data Analyst,Remote,day,8,healthy
+EMP0025,Engineering,Data Analyst,Office,day,8,healthy
+EMP0026,Finance,Project Manager,Remote,day,8,healthy
+EMP0027,Sales,Project Manager,Office,day,8,healthy
+EMP0028,Human Resources,Project Manager,Office,day,8,healthy
+EMP0029,Sales,Project Manager,Hybrid,day,8,healthy
+EMP0030,Sales,Marketing Executive,Office,day,8,healthy
+EMP0031,Operations,Marketing Executive,Office,day,8,healthy
+EMP0032,Operations,Marketing Executive,Office,day,8,healthy
+EMP0033,Marketing,Business Analyst,Remote,day,8,healthy
+EMP0034,Human Resources,Marketing Executive,Hybrid,day,8,healthy
+EMP0035,Operations,Data Analyst,Hybrid,day,8,healthy
+EMP0036,Human Resources,Software Developer,Office,day,8,healthy
+EMP0037,Engineering,Project Manager,Remote,day,8,healthy
+EMP0038,Human Resources,Software Developer,Office,day,8,healthy
+EMP0039,Operations,Marketing Executive,Remote,day,8,healthy
+EMP0040,Marketing,Marketing Executive,Remote,day,8,healthy
+EMP0041,Finance,Marketing Executive,Remote,day,8,healthy
+EMP0042,Marketing,Project Manager,Office,day,8,healthy
+EMP0043,Marketing,Marketing Executive,Hybrid,day,8,healthy
+EMP0044,Operations,Project Manager,Hybrid,day,8,healthy
+EMP0045,Operations,Business Analyst,Hybrid,day,8,healthy
+EMP0046,Finance,Project Manager,Office,day,8,healthy
+EMP0047,Marketing,HR Executive,Remote,day,8,healthy
+EMP0048,Engineering,Software Developer,Office,day,8,healthy
+EMP0049,Marketing,Marketing Executive,Office,day,8,healthy
+EMP0050,Sales,Business Analyst,Hybrid,day,8,healthy
+EMP0051,Engineering,Business Analyst,Remote,day,8,healthy
+EMP0052,Operations,Business Analyst,Hybrid,day,8,healthy
+EMP0053,Human Resources,HR Executive,Office,day,8,healthy
+EMP0054,Sales,Marketing Executive,Office,day,8,healthy
+EMP0055,Sales,HR Executive,Remote,day,8,healthy
+EMP0056,Sales,Project Manager,Office,day,8,healthy
+EMP0057,Human Resources,Business Analyst,Office,day,8,healthy
+EMP0058,Finance,Software Developer,Hybrid,day,8,healthy
+EMP0059,Sales,Project Manager,Hybrid,day,8,healthy
+EMP0060,Marketing,HR Executive,Office,day,8,healthy
+EMP0061,Sales,Project Manager,Hybrid,day,8,occasional_overtime
+EMP0062,Operations,HR Executive,Office,day,8,occasional_overtime
+EMP0063,Marketing,Project Manager,Office,day,8,occasional_overtime
+EMP0064,Operations,HR Executive,Office,day,8,occasional_overtime
+EMP0065,Operations,Project Manager,Remote,day,8,occasional_overtime
+EMP0066,Engineering,Software Developer,Remote,day,8,occasional_overtime
+EMP0067,Human Resources,Data Analyst,Office,day,8,occasional_overtime
+EMP0068,Marketing,HR Executive,Office,day,8,occasional_overtime
+EMP0069,Engineering,Marketing Executive,Remote,day,8,occasional_overtime
+EMP0070,Engineering,HR Executive,Office,day,8,occasional_overtime
+EMP0071,Marketing,Marketing Executive,Remote,day,8,occasional_overtime
+EMP0072,Operations,Data Analyst,Remote,day,8,occasional_overtime
+EMP0073,Operations,HR Executive,Remote,day,8,occasional_overtime
+EMP0074,Marketing,HR Executive,Hybrid,day,8,occasional_overtime
+EMP0075,Sales,Data Analyst,Hybrid,day,8,occasional_overtime
+EMP0076,Human Resources,Business Analyst,Hybrid,day,8,occasional_overtime
+EMP0077,Sales,Project Manager,Remote,day,8,occasional_overtime
+EMP0078,Operations,Business Analyst,Office,day,8,occasional_overtime
+EMP0079,Marketing,Data Analyst,Office,day,8,occasional_overtime
+EMP0080,Human Resources,Software Developer,Hybrid,day,8,occasional_overtime
+EMP0081,Operations,Data Analyst,Hybrid,day,8,occasional_overtime
+EMP0082,Marketing,Software Developer,Office,day,8,occasional_overtime
+EMP0083,Sales,Marketing Executive,Office,day,8,occasional_overtime
+EMP0084,Marketing,Software Developer,Office,day,8,occasional_overtime
+EMP0085,Human Resources,Software Developer,Hybrid,day,8,occasional_overtime
+EMP0086,Marketing,Project Manager,Hybrid,day,8,sustained_overwork
+EMP0087,Finance,Data Analyst,Hybrid,day,8,sustained_overwork
+EMP0088,Marketing,Marketing Executive,Hybrid,day,8,sustained_overwork
+EMP0089,Operations,Business Analyst,Office,day,8,sustained_overwork
+EMP0090,Finance,Business Analyst,Office,day,8,sustained_overwork
+EMP0091,Engineering,Software Developer,Hybrid,day,8,sustained_overwork
+EMP0092,Finance,Project Manager,Remote,day,8,sustained_overwork
+EMP0093,Finance,Business Analyst,Hybrid,day,8,sustained_overwork
+EMP0094,Engineering,Marketing Executive,Hybrid,day,8,sustained_overwork
+EMP0095,Sales,Software Developer,Office,day,8,sustained_overwork
+EMP0096,Finance,Marketing Executive,Remote,day,8,sustained_overwork
+EMP0097,Engineering,Data Analyst,Office,day,8,sustained_overwork
+EMP0098,Marketing,HR Executive,Remote,day,8,sustained_overwork
+EMP0099,Marketing,Business Analyst,Office,day,8,sustained_overwork
+EMP0100,Human Resources,Business Analyst,Office,day,8,sustained_overwork
